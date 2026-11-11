@@ -1,6 +1,0 @@
-exclude:
-  - csv_data
-  - dashboard.ipynb
-  - plot_AFM.ipynb
-  - dashboard.html
-  - README.md
